@@ -8,7 +8,8 @@ Statistics is  the science concerned with developing and studying methods for co
 ## 1.2) Data
 
 Data are measurements or observations that are collected as a source of information. The types of data are:
-**A. Primary Data**: Data collected by analyst or investigator himself.
+<br/>
+**A. Primary Data**: Data collected by analyst or investigator himself.<br/>
 **B. Secondary Data**: Data collected by analyst or investigator but used by other people.
 
 ### Methods to collect data:
