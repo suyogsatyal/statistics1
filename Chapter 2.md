@@ -116,3 +116,5 @@ $$\mu_2 = \bar\mu_2 - (\bar\mu_1)^2$$
 $$\mu_3 = \bar\mu_3 - 3\bar\mu_2\bar\mu_1 +2(\bar\mu_1)^3$$
 $$\mu_4 = \bar\mu_4 - 4\bar\mu_3\bar\mu_1 + 6\bar\mu_2(\bar\mu_1)^2 - 3(\bar\mu_1)^4$$
 
+hello guys
+
