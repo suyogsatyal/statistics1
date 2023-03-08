@@ -13,9 +13,13 @@ Data are measurements or observations that are collected as a source of informat
 
 ### Methods to collect data:
 **A. Personal Interview**
+<br/>
 **B. Indirect Interview**
+<br/>
 **C. Mailed Questionnaire**
+<br/>
 **D. Telephone Interview**
+<br/>
 **E. Information through Correspondants**
 
 
