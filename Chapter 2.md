@@ -110,6 +110,7 @@ $$\mu_3 = \frac{\sum f(x-\bar x)^3}{N}$$
 $$\mu_4 = \frac{\sum f(x-\bar x)^4}{N}$$
 
 ## Relation between Raw & Central Moments
+
 $$\mu_1 = 0 $$
 $$\mu_2 = \bar\mu_2 - (\bar\mu_1)^2$$
 $$\mu_3 = \bar\mu_3 - 3\bar\mu_2\bar\mu_1 +2(\bar\mu_1)^3$$
