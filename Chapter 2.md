@@ -111,8 +111,6 @@ $$\mu_4 = \frac{\sum f(x-\bar x)^4}{N}$$
 
 ## Relation between Raw & Central Moments
 
-$$\mu_1 = 0 $$
-$$\mu_2 = \mu_2 - (\mu_1)^2$$
-$$\mu_3 = \mu_3 - 3\mu_2\mu_1 +2(\mu_1)^3$$
-$$\mu_4 = \mu_4 - 4\mu_3\mu_1 + 6\mu_2(\mu_1)^2 - 3(\mu_1)^4$$
+![image](https://user-images.githubusercontent.com/62869132/224215072-81efa90b-4a76-49cd-9963-5ee90d324291.png)
+
 
